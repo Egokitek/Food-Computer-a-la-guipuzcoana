@@ -3,7 +3,7 @@
 
 **Proyecto de crowdfunding con** el apoyo de la **Fundación Goteo**, la **Diputación Foral de Gipuzkoa** y **48 patrocinadores**. La campaña comenzó el 14 de Septiembre de 2017 y finalizó el 2 de Diciembre del mismo año, habiendo cumplido el objetivo de financiación. EL proyecto se desarrollará durante el año 2018.
 
-**Características principales:**
+ ## Características principales:
 
 **El Food Computer** es la solución ideal para el cultivo en espacios reducidos en zonas urbanas, aprovechando cualquier rincón. Es un proyecto de hardware abierto, un mini-invernadero con un control muy intenso de las condiciones de cultivo de tal forma que se puede garantizar el clima adecuado. Se pueden cultivar alimentos frescos de km 0. Durante todo el año, fácilmente y con unas tasas de crecimiento muy altas.
 
@@ -13,6 +13,6 @@ De ese modo se puede cultivar incluso en tierras contaminadas radiactivamente, d
 
 Le quiero añadir funcionalidades que permitan el empleo de biofertilizantes y microorganismos, extracto de agua de mar, etc. Son nutrientes que se pueden crear de forma local y a bajo coste para sustituir a los nutrientes sintéticos que se usan habitualmente en cultivo hidropónico sin tierra. De este modo tendremos un "sustrato vivo" similar al de las tierras mas fértiles y de forma muy asequible y limpia. Integraré también el cultivo de alga spirulina (con una tasa muy elevada de proteínas, calificada de "superalimento").
 
-**Objetivos y recompensas:**
+## Objetivos y recompensas:
 
 Como parte de las recompensas se incluye una unidad de bajo coste y de funciones básicas para comenzar a experimentar, pero el objetivo es construir una unidad completa con todas las funciones y añadir todo lo que se ha comentado. Con ese objetivo cumplido la idea es construir una unidad mas grande de unos 2x2x1m que multiplica las posibilidades. Todo el desarrollo quedará publicado en abierto en una cuenta en Github.
