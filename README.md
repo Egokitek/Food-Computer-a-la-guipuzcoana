@@ -15,4 +15,4 @@ Le quiero añadir funcionalidades que permitan el empleo de biofertilizantes y m
 
 ## Objetivos y recompensas:
 
-Como parte de las recompensas se incluye una unidad de bajo coste y de funciones básicas para comenzar a experimentar, pero el objetivo es construir una unidad completa con todas las funciones y añadir todo lo que se ha comentado. Con ese objetivo cumplido la idea es construir una unidad mas grande de unos 2x2x1m que multiplica las posibilidades. Todo el desarrollo quedará publicado en abierto en una cuenta en Github.
+Como parte de las recompensas se incluye una unidad de bajo coste y de funciones básicas para comenzar a experimentar, pero el objetivo es construir una unidad completa con todas las funciones y añadir todo lo que se ha comentado. Con ese objetivo cumplido la idea es construir una unidad mas grande de unos 2x2x1m que multiplica las posibilidades. Todo el desarrollo quedará publicado aquí en Github.
