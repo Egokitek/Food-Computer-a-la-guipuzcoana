@@ -27,7 +27,7 @@ Como parte de las recompensas se incluye una unidad de bajo coste y de funciones
 
 ## Cofinanciadores
 
-![Ver listado aquí:](Cofinanciadores.md)
+[Ver listado aquí:](Cofinanciadores.md)
 
 ## Créditos
 
