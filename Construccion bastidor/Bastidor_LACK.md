@@ -1,3 +1,3 @@
-# BASTIDOR LACK
+# Bastidor LACK
 
 ## En construcción
