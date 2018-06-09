@@ -1,4 +1,4 @@
-# BASTIDOR de aluminio
+# Bastidor de aluminio
 
 ## En construcción
 
