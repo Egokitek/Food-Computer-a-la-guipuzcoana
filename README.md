@@ -17,14 +17,15 @@ Le quiero añadir funcionalidades que permitan el empleo de biofertilizantes y m
 
 Como parte de las recompensas se incluye una unidad de bajo coste y de funciones básicas para comenzar a experimentar, pero el objetivo es construir una unidad completa con todas las funciones y añadir todo lo que se ha comentado. Con ese objetivo cumplido la idea es construir una unidad mas grande de unos 2x2x1m que multiplica las posibilidades. Todo el desarrollo quedará publicado aquí en Github.
 
-![Food Computer MVP](Food computer MVP.jpg)
+![Food Computer MVP](Food_computer_MVP.jpg)
 
-##Autor
+## Autor
 
 [Victor Barahona ](https://github.com/Egokitek)
 [www.egokitek.com](http://www.egokitek.com)
 
-##Créditos
+## Créditos
+
 **Food Computer** es un concepto creado por **Caleb Harper** en el **[MIT](http://web.mit.edu/)**, departamento de agricultura abierta **[OpenAg](https://www-prod.media.mit.edu/groups/open-agriculture-openag/overview/)**.
 
 Gran parte de este proyecto está basado en el concepto **[Food Computer MVP](https://forum.openag.media.mit.edu/t/300-food-computer/2343)** (minimum viable product), desarrollado por los miembros de la comunidad OpenAg:
@@ -32,7 +33,7 @@ Gran parte de este proyecto está basado en el concepto **[Food Computer MVP](ht
 - Howard Webb
 - Drew Thomas
 
-##Licencia
+## Licencia
 
 **GPL3.0**
 
