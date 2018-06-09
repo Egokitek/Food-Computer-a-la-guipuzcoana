@@ -1,4 +1,4 @@
-# BASTIDOR A PARTIR DE ESTANTERIAS
+# Bastidor a partir de estanterías metálicas
 
 ## En construcción
 
