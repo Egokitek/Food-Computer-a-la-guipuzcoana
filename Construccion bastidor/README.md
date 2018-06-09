@@ -27,13 +27,13 @@ Construcción con perfiles de aluminio TSLOT de 2020 y ranura de 6mm.
 
 ## Con mueble LACK de Ikea
 
-Construcción usando como frame un mueble LACK DE Ikea (o dos unidos entre si).
+Construcción usando como frame un mueble LACK de Ikea (o dos unidos entre si).
 
 [Ver detalles aquí:](Bastidor_LACK.md)
 
 ## Con estanterías metálicas
 
-A partir de estanterías metálicas se puede construir un bastidor muy grande.
+A partir de estanterías metálicas se puede construir un bastidor muy grande y de las medidas que queramos.
 
 [Ver detalles aquí:](Bastidor_estanteria.md)
 
