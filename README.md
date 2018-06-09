@@ -19,12 +19,13 @@ Como parte de las recompensas se incluye una unidad de bajo coste y de funciones
 
 ![Food Computer MVP](Food computer MVP.jpg)
 
-##Autor
+## Autor
 
 [Victor Barahona ](https://github.com/Egokitek)
 [www.egokitek.com](http://www.egokitek.com)
 
-##Créditos
+## Créditos
+
 **Food Computer** es un concepto creado por **Caleb Harper** en el **[MIT](http://web.mit.edu/)**, departamento de agricultura abierta **[OpenAg](https://www-prod.media.mit.edu/groups/open-agriculture-openag/overview/)**.
 
 Gran parte de este proyecto está basado en el concepto **[Food Computer MVP](https://forum.openag.media.mit.edu/t/300-food-computer/2343)** (minimum viable product), desarrollado por los miembros de la comunidad OpenAg:
@@ -32,7 +33,7 @@ Gran parte de este proyecto está basado en el concepto **[Food Computer MVP](ht
 - Howard Webb
 - Drew Thomas
 
-##Licencia
+## Licencia
 
 **GPL3.0**
 
