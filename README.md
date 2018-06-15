@@ -21,19 +21,22 @@ Como parte de las recompensas se incluye una unidad de bajo coste y de funciones
 
 ## Desarrollo del Proyecto
 
-####[Construcción del bastidor ](Construccion bastidor/README.md) 
+
 Varias técnicas constructivas para hacer un bastidor de Food Computer de forma modular, con varios tamaños a elegir.
 
-####[Placa de control - Brain ](Placa de control - Brain/README.md) 
+
 Electrónica necesaria para manejar el equipo.
 
-####[Software ](Software/README.md) 
+#### [Software ](Software/README.md) 
+
 Se utiliza en principio el software MVP (Minimum Viable Product), mas sencillo de implementar y utilizar que el original. 
 
-####[Cultivo ](Cultivo/README.md) 
+#### [Cultivo ](Cultivo/README.md) 
+
 Metodologías de cultivo.
 
-####[Varios ](Varios/README.md) 
+#### [Varios ](Varios/README.md) 
+
 Diferentes cuestiones que no encajan en el resto de apartados, de propósito general.
 
 
