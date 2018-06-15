@@ -2,7 +2,8 @@
 
 ## En construcción
 
-####[Iluminación LED ](Iluminacion_LED.md) 
+#### [Iluminación LED ](Iluminacion_LED.md) 
+
 Testeo de diferentes fórmulas para uso de LEDs en el cultivo.
 
 - Paneles matriciales de diferentes potencias
@@ -12,5 +13,6 @@ Testeo de diferentes fórmulas para uso de LEDs en el cultivo.
 - Cuestiones de refrigeración
 - PAR, Lumen, Lux, umol ... La cuestión de la eficacia luminosa y como medirla.
 
-####[MVP - Brain ](MVP_Brain.md) 
+#### [MVP - Brain ](MVP_Brain.md) 
+
 Electrónica necesaria para manejar el equipo.
