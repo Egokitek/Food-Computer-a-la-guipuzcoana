@@ -2,9 +2,7 @@
 
 ## En construcción
 
-#### Iluminación LED 
-
-Testeo de diferentes fórmulas para uso de LEDs en el cultivo.
+**Testeo de diferentes fórmulas para uso de LEDs en el cultivo.**
 
 - Paneles matriciales de diferentes potencias
 - Tiras de LED
@@ -13,7 +11,7 @@ Testeo de diferentes fórmulas para uso de LEDs en el cultivo.
 - Cuestiones de refrigeración
 - PAR, Lumen, Lux, umol ... La cuestión de la eficacia luminosa y como medirla.
 
-#### Panel DIY con modulos COB de 10W a 12 Voltios DC
+### Panel DIY con modulos COB de 10W a 12 Voltios DC
 
 ![Montaje de modulo](Imagenes/Montaje_COB.jpg)
 
@@ -23,7 +21,7 @@ Testeo de diferentes fórmulas para uso de LEDs en el cultivo.
 
 ![Encendido_COB](Imagenes/Encendido_COB.jpg)
 
-#### Panel comercial de 40W a 220V Voltios AC
+### Panel comercial de 40W a 220V Voltios AC
 
 ![Panel_40W](Imagenes/Panel_40W.jpg)
 
@@ -31,7 +29,7 @@ Testeo de diferentes fórmulas para uso de LEDs en el cultivo.
 
 ![Paneles_40W_ON](Imagenes/Paneles_40W_ON.jpg)
 
-#### Panel comercial de 300W a 220V Voltios AC
+### Panel comercial de 300W a 220V Voltios AC
 
 ![Panel_300W](Imagenes/Panel_300W.jpg)
 
