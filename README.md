@@ -21,9 +21,11 @@ Como parte de las recompensas se incluye una unidad de bajo coste y de funciones
 
 ## Desarrollo del Proyecto
 
+#### [Construcción del bastidor ](Construccion bastidor/README.md) 
 
 Varias técnicas constructivas para hacer un bastidor de Food Computer de forma modular, con varios tamaños a elegir.
 
+#### [Placa de control - Brain ](Placa de control Brain/README.md) 
 
 Electrónica necesaria para manejar el equipo.
 
