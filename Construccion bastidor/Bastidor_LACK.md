@@ -37,7 +37,7 @@ El aspecto del bastidor terminado es este. La puerta inserta en las ranuras de l
 
 Este bastidor es de 50x50x50 que es un tamaño bastante apto, pero podemos hacer un bastidor de 50x50x100cm para cultivos mas grandes si unimos dos mesas LACK. Una abajo y dada la vuelta y otra arriba. O sea, la plancha de la mesa hará de base en la mesa de abajo. Para unir ambas mesas en su sección central (pata con pata) he diseñado unas piezas adicionales en 3D como está que vemos aquí:
 
-![Piezas en 3D](Imagenes/piezas_3d_lack.jpg)
+![Piezas en 3D](Imagenes/Piezas_3d_lack.jpg)
 
 El panel LED en el interior lo fijamos mediante tornillo, pero debe guardar cierta distancia para permitir su refrigeración. He usado tornillos de 4x40 y unas tuercas para que hagan de separadores, como vemos en la foto. 
 
