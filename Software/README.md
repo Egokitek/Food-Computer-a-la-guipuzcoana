@@ -14,12 +14,4 @@ Quizás la mayor dificultad es la fabricación de la placa base, de unos 30x30cm
 
 Desde el año 2017, en la comunidad se ha ido construyendo una alternativa llamada **MVP**, similar al **EDU** y que está en la banda de los 300$. Es la base sobre la que se ha construido todo este proyecto ya que reune la mayoría de los requisitos necesarios.
 
-A partir de una imagen del repositorio en GitHub
 
-He empleado una mezcla de 3 componentes: 
-- compost de lombriz
-- perlita y/o vermiculita
-- fibra de coco
-porque no hay luz verde que la planta puede reflejar.
-
-![suelo_solido](Imagenes/Verde_vs_rosa.jpg)
