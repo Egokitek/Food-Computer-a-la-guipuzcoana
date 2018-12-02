@@ -19,14 +19,6 @@ Las puertas las forramos internamente con film semireflectante y el perímetro e
 
 ![Terminado](Imagenes/tslot_200_led_on_3.jpg)
 
-Para hacerlo he empleado un trozo de mandera DM de 1cm, al que he hecho 4 agujeros para encajar el soporte de la bombilla. Estas dan una luz blanca de unos 3000K y 1500lm cada una.
-
-![Montaje_bombillas](Imagenes/tslot_100_placa_bombillas.jpg)
-
-Conectamos el cableado y lo fijamos a la placa en la parte superior, quedando de esta manera. Hay que ser muy cuidadoso en todo este proceso ya que estaremos trabajando con tensiones de 220AC.
-
-![Conexiones_bombillas](Imagenes/tslot_100_placa_bombillas_up.jpg)
-
 El resto de detalles constructivos son como el del FC 50x50x50 que ya se ha explicado.
 
 
