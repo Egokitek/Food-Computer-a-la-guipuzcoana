@@ -2,7 +2,11 @@
 
 Se trata de construir el bastidor con perfiles de aluminio **TSLOT** de 20x20mm y ranura de 6 mm. Se pueden comprar con  la longitud cortada a la medida que queramos, aunque es mejor usar valores mas o menos estandar. Estos perfiles son relativamente baratos, asi que **el coste total del bastidor es bajo, al tiempo que conseguimos una estructura ligera y rígida, con un aspecto muy profesional**.
 
-**A continuación mostraré como montar un bastidor de 50x50x50cm** pero modificando las dimensiones se puede hacer d elas dimesniones que se quiera, de hecho he construido otros dos de 50x50x100 y 100x50x100 para probar diferentes factores de forma y comparar los resultados.
+**A continuación mostraré como montar un bastidor de 50x50x50cm** pero modificando las dimensiones se puede hacer d elas dimesniones que se quiera, de hecho he construido otros dos de 50x50x100 y 100x50x100 para probar diferentes factores de forma y comparar los resultados. Si quieres ver fotos de los mismos los tienes aquí:
+
+[MVP de aluminio 50x50x100](Bastidor_50x50x100.md)
+[MVP de aluminio 50x100x100](Bastidor_50x100x100.md)
+
 
 Veamos en esta primera foto el aspecto que tiene el bastidor:
 
