@@ -72,15 +72,15 @@ Por este sistema se pueden cultivar plantas de mayor porte como tomates, berenje
 
 Para cultivos a pequeña escala necesitamos fundamentalmente dos instrumentos:
 
-- Medidor de **pH** de su valor óptimo depende que las plantas puedan absorber las sales minerales y los nutrientes necesarios.
-- Medidor de conductividad **EC** Indica el nivel de concentración de nutrientes disueltos en el agua.
+- Medidor de **pH** :  De su valor óptimo depende que las plantas puedan absorber las sales minerales y los nutrientes necesarios.
+- Medidor de conductividad **EC** : indica el nivel de concentración de nutrientes disueltos en el agua.
 
 Aquí vemos ambos medidores, existen en el mercado equipos bastante baratos, en la banda de los 25euros:
 
 ![Instrumentacion](Imagenes/ph_ec_tds.jpg)
 
-**La preparación del medio de cultivo** se hace añadiendo la dosis exacta de material sólido que se debe disolver en el agua, de tal forma que los valores de ph y conductividad sean los correctos. Normalmente se emplea una solución **A+B** (así se llama), que contiene todas las sales necesarias, unas 17, las que la planta necesita para crecer.
+**La preparación del medio de cultivo** se hace añadiendo la dosis exacta de material sólido que se debe disolver en el agua, de tal forma que los valores de ph y conductividad sean los correctos. Normalmente se emplea una solución **A+B** (así se llama), que contiene todas las sales necesarias, unas 17, las que la planta necesita para crecer. Esta solución se vende en diferentes cantidades.
 
-E mi caso y con el sobre plastificado que se ve en la fotose prepara una botella de 1,5l. Asi que vale con cualquier botella estandar de agua. Es importante protegerla de la luz y agitar bien siempre antes de utilizar. Para hacerla opaca he empleado cinta de carrocero gris. El líquido que qeuda es de color morado, se ve en el vaso dosificador. Una botella de 1,5 litros permite preprar 200 litros de agua para cultivo. En esta cubeta caben unos 10l. asi que con el contenido del vaso es suficiente.
+En mi caso y con el sobre plastificado que se ve en la foto se prepara una botella de 1,5l. Asi que vale con cualquier botella estandar de agua. Es importante protegerla de la luz y agitar bien siempre antes de utilizar. Para hacerla opaca he empleado cinta de carrocero gris. El líquido que queda es de color morado, se ve en el vaso dosificador. Una botella de 1,5 litros permite preparar 200 litros de agua para cultivo. En esta cubeta caben unos 10l. asi que con el contenido del vaso es suficiente.
 
 ![A+B_dosificacion](Imagenes/Nutrientes_ph_ec_tds.jpg)
