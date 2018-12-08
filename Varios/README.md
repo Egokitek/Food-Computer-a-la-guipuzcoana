@@ -2,7 +2,7 @@
 
 Incluyo aquí imágenes del desarrollo del proyecto que no encajan en el resto de apartados y son  **off-topic**
 
-##Impresión 3D de piezas para el proyecto
+## Impresión 3D de piezas para el proyecto
 
 En la carpeta **STL** están los ficheros correspondientes. Algunos de ellos están impresos a dos colores para mejorar el contraste y acabado. Como vemos aquí:
 
@@ -18,7 +18,7 @@ Para desarrollar el proyecto he estudiado diferente bibliografía, como este lib
 
 ![Croquis](Imagenes/Draft_mvps.jpg) 
 
-##El taller
+## El taller
 
 El proyecto lo he desarrollado en un taller de 20m2 que tengo en alquiler en un centro de empresas de Donostia-San Sebastían. Aquí trabajo en varios campos y no solo en Food Computers. Aquí vemos un croquis del taller cuando estaba instalando los equipos.
 
@@ -28,7 +28,7 @@ Y aquí una panorámica del taller hace unos meses, está en constante evolució
 
 ![Pano_Workshop](Imagenes/Pano_workshop_1.jpg) 
 
-##Evolución de la granja indoor
+## Evolución de la granja indoor
 
 Algunas fotos para ir viendo el progreso:
 
