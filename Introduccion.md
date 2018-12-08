@@ -1,6 +1,6 @@
 # Food-Computer-a-la-guipuzcoana
 
-###El contexto
+## El contexto
 
 El concepto surgió al visitar Fukushima y ver que nunca se podría cultivar allí debido a la contaminación de las tierras. De ahí se vió que hay muchos contextos en los que el cultivo resulta díficil y una tecnología de este tipo podría ayudar.
 
@@ -8,7 +8,7 @@ El concepto surgió al visitar Fukushima y ver que nunca se podría cultivar all
 
 Hay que tomar en cuenta el incremento de la población mundial que alcanzará los 9000 millones de personas en torno a 2040. Y al tiempo la destrucción y erosión de tierras de cultivo. Habrá que administrar las tierras de tal forma que los campos queden para cultivos extensivos o que requieren espacio, mientras que los cultivos mas pequeños y de ciclo corto se puedn cultivar localmente mediante estas técnicas, incluso de forma vertical.
 
-###Diseño y detalles constructivos
+## Diseño y detalles constructivos
 
 El concepto FC utiliza el cultivo hidropónico, concretamente **DWC (Deep Water Culture)** que permite cultivar verduras de ensalada de pequeño tamaño y ciclo corto. El MIT está ensayando ahora otros cultivos que emplean técnicas alternativas e incluso cultivo con suelo para plantones de avellano, etc.
 
@@ -40,7 +40,7 @@ Y por otro lado, tiene los siguientes **actuadores:**
 
 **Las versiones EDU y MVP** son mas sencillas y disponen de menos sensores y actuadores para facilitar la construcción, uso y mantenimiento. Asimismo tienen un precio bastante mas asequible que permitirá su rápida extensión.
 
-### Un poco de historia...
+## Un poco de historia...
 
 **El proyecto es liderado por Caleb Harper del MIT.**
 
