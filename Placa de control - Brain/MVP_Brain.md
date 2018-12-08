@@ -24,9 +24,7 @@ Hay un agujero en el lateral izquierdo para insertar cableado al interior y para
 
 ![Brain_cableado_interior](Imagenes/tslot50cm.jpg)
 
-**Una cosa que hecho a la hora de poner el cableado es el de dejar suficiente longitud para poder medir consumos de forma no invasiva** mediante una pinza amperímetrica, como vemos en esta foto. Este es el Food Computer que emplea LED de 40W y lo que vemos es el consumo de corriente a 220V. Vemos que en esete tipo de FC es bajo. En equipos mas grandes lógicamente se incrementa.
-
-
+**Una cosa que hecho a la hora de poner el cableado es el de dejar suficiente longitud para poder medir consumos de forma no invasiva** mediante una pinza amperímetrica, como vemos en esta foto. Este es el Food Computer que emplea LED de 40W y lo que vemos es el consumo de corriente a 220V. Vemos que en este tipo de FC es bajo. En equipos mas grandes lógicamente se incrementa.
 
 ![Brain_medicion_corriente](Imagenes/tslot50_medicion_corriente.jpg)
 

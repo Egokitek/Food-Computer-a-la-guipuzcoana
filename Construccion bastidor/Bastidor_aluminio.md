@@ -5,6 +5,7 @@ Se trata de construir el bastidor con perfiles de aluminio **TSLOT** de 20x20mm 
 **A continuación mostraré como montar un bastidor de 50x50x50cm** pero modificando las dimensiones se puede hacer d elas dimesniones que se quiera, de hecho he construido otros dos de 50x50x100 y 100x50x100 para probar diferentes factores de forma y comparar los resultados. Si quieres ver fotos de los mismos los tienes aquí:
 
 [MVP de aluminio 50x50x100](Bastidor_50x50x100.md)
+
 [MVP de aluminio 50x100x100](Bastidor_50x100x100.md)
 
 

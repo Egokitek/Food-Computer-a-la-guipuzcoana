@@ -1,6 +1,8 @@
 # Placa de control - Brain
 
-## En construcción
+#### [MVP - Brain ](MVP_Brain.md) 
+
+Placa de control necesaria para manejar el equipo.
 
 #### [Iluminación LED ](Iluminacion_LED.md) 
 
@@ -12,7 +14,3 @@ Testeo de diferentes fórmulas para uso de LEDs en el cultivo.
 - Montajes DIY a la medida
 - Cuestiones de refrigeración
 - PAR, Lumen, Lux, umol ... La cuestión de la eficacia luminosa y como medirla.
-
-#### [MVP - Brain ](MVP_Brain.md) 
-
-Electrónica necesaria para manejar el equipo.

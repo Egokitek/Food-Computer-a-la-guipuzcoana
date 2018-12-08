@@ -1,3 +1,0 @@
-# SW MVP
-
-## En construcción

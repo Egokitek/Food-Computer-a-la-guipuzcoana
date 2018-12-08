@@ -84,3 +84,5 @@ Aquí vemos ambos medidores, existen en el mercado equipos bastante baratos, en 
 En mi caso y con el sobre plastificado que se ve en la foto se prepara una botella de 1,5l. Asi que vale con cualquier botella estandar de agua. Es importante protegerla de la luz y agitar bien siempre antes de utilizar. Para hacerla opaca he empleado cinta de carrocero gris. El líquido que queda es de color morado, se ve en el vaso dosificador. Una botella de 1,5 litros permite preparar 200 litros de agua para cultivo. En esta cubeta caben unos 10l. asi que con el contenido del vaso es suficiente.
 
 ![A+B_dosificacion](Imagenes/Nutrientes_ph_ec_tds.jpg)
+
+Hemos de vigilar el nivel de líquido de la cubeta y reponerlo periodicamente, asi como vigilar los valores de EC y PH con una frecuencia mínima semanal. Se recomienda vaciar la cubeta y reponerla entera con la dosificación correcta para garantizar que las concentraciones de nutrientes son los adecuados.
