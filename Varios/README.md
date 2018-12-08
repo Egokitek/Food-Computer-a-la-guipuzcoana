@@ -12,7 +12,7 @@ En la foto se ve justo el momento en que comienza a imprimir con el segundo colo
 
 ![Banner ](Imagenes/Banner_openag.jpg) 
 
-##Diseñando la granja indoor
+## Diseñando la granja indoor
 
 Para desarrollar el proyecto he estudiado diferente bibliografía, como este libro sobre **acuaponía**. Debajo vemos un croquis de la granja. Luego ha ido evolucionando.
 
@@ -20,7 +20,7 @@ Para desarrollar el proyecto he estudiado diferente bibliografía, como este lib
 
 ## El taller
 
-El proyecto lo he desarrollado en un taller de 20m2 que tengo en alquiler en un centro de empresas de Donostia-San Sebastían. Aquí trabajo en varios campos y no solo en Food Computers. Aquí vemos un croquis del taller cuando estaba instalando los equipos.
+El proyecto lo he desarrollado en un taller de 20m2 que tengo en alquiler en un centro de empresas de **Donostia-San Sebastian**. Aquí trabajo en varios campos y no solo en Food Computers. Aquí vemos un croquis del taller cuando estaba instalando los equipos.
 
 ![Workshop](Imagenes/Workshop_proyecto.jpg) 
 
