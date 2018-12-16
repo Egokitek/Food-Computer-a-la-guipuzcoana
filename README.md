@@ -60,7 +60,7 @@ El **BOM (Bill of Materials)** está en formato de hoja de calculo excel y tiene
 
 En este momento solo está completada la pestaña del FC MVP de 50x50x50 con TSLOT. Próximamente se completará el resto.
 
-El fichero lo tienes [aquí](BOM.xls):
+El fichero lo tienes [aquí](BOM.xlsx):
 
 
 ## Autor
