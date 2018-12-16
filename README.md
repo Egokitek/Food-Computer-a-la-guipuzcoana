@@ -1,7 +1,8 @@
 # Food-Computer-a-la-guipuzcoana
+
 ## Cultivo de alimentos frescos en espacios reducidos mediante un Food Computer
 
-**Proyecto de crowdfunding con** el apoyo de la **Fundación Goteo**, la **Diputación Foral de Gipuzkoa** y **48 patrocinadores**. La campaña comenzó el 14 de Septiembre de 2017 y finalizó el 2 de Diciembre del mismo año, habiendo cumplido el objetivo de financiación. EL proyecto se desarrollará durante el año 2018.
+**Proyecto de crowdfunding con** el apoyo de la **Fundación Goteo**, la **Diputación Foral de Gipuzkoa** y [**48 Patrocinadores**](Cofinanciadores.md). La campaña de captación de fondos comenzó el 14 de Septiembre de 2017 y finalizó el 2 de Diciembre del mismo año, habiendo cumplido el objetivo de financiación. EL proyecto se desarrollará durante el año 2018.
 
  ## Características principales:
 
@@ -19,7 +20,7 @@ Le quiero añadir funcionalidades que permitan el empleo de biofertilizantes y m
 
 Como parte de las recompensas se incluye una unidad de bajo coste y de funciones básicas para comenzar a experimentar, pero el objetivo es construir una unidad completa con todas las funciones y añadir todo lo que se ha comentado. Con ese objetivo cumplido la idea es construir una unidad mas grande de unos 2x2x1m que multiplica las posibilidades. Todo el desarrollo quedará publicado aquí en Github.
 
-## Desarrollo del Proyecto
+## Contenidos de las carpetas:
 
 [**Introducción** ](Introduccion.md) 
 
@@ -53,6 +54,14 @@ Ficheros STL listos para imprimir. Necesarios para el desarrollo del proyecto.
 
 Diferentes cuestiones que no encajan en el resto de apartados.
 
+## Lista de componentes y presupuesto
+
+El **BOM (Bill of Materials)** está en formato de hoja de calculo excel y tiene varias pestañas que incluye los distintos bastidores realizados y sus diferencias de precio.
+
+En este momento solo está completada la pestaña del FC MVP de 50x50x50 con TSLOT. Próximamente se completará el resto.
+
+El fichero lo tienes [aquí](BOM.xls):
+
 
 ## Autor
 
@@ -76,6 +85,19 @@ Gran parte de este proyecto está basado en el concepto **[Food Computer MVP](ht
 ## Licencia
 
 **GPL3.0**
+
+## En desarrollo actual
+
+- Experimentar y documentar las distintas técnicas de cultivo ya en uso.
+- Verificar consumos eléctricos y ver la posibilidad de optimizarlos.
+- Probar extracto de agua de mar, biofertilizantes, microorganismos y otros aportes nutricionales.
+
+## Desarrollo futuro
+
+- Integración de cultivo de alga **spirulina**.
+- Integración de módulo de **vermicompostaje**.
+- Integración de módulo de **acuaponía**.
+- Posibilidad de escalado del sistema.
 
 
 

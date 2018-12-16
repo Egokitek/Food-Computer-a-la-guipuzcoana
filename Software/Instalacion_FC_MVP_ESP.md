@@ -72,7 +72,7 @@ Para obtener más información sobre Cron [ver aquí:](https://docs.oracle.com/c
 **Ventilador:**
 Hay dos ventiladores, uno para circulación y otro para eliminar el exceso de calor. Estos funcionan con una fuente de 12V, el primero va conectado directamente y el segundo pasará a través de la tarjeta de relés.
 
-** Sensor de temperatura / humedad: **
+**Sensor de temperatura / humedad:**
 El sensor SI7021 usa el bus I2C para medir la temperatura y la humedad. Mas información en [Instrucciones](https://learn.adafruit.com/adafruit-si7021-temperature-plus-humidity-sensor/overview) para saber sobre su uso y el cableado.
 
 **Cámara web:**
@@ -96,7 +96,7 @@ El código se ha desarrollado de acuerdo a la convención indicada arriba.
 
 ## Instalación
 
-### Asegurarse de que:
+### Asegurarse de tener lo siguiente:
 
 1. Instalación NOOB de Raspbian en Raspberry Pi
 2. El sistema Raspbian ha sido configurado (mediante **raspi-config**)
@@ -109,7 +109,7 @@ El código se ha desarrollado de acuerdo a la convención indicada arriba.
 2. Tarjeta SD 32G para guardar datos
 3. Los sensores y el relé están conectados al Pi. Si intentas ejecutar el código sin sensores, se producirá un error (error de E / S, en la función **get_tempC ()**). Esto se trasladará hasta el error de la tarea cron para **LogSensor.py**.
 
-### Pasos a seguir
+### Pasos a seguir:
 
 Los scripts de construcción forman parte de la documentación. Si quieres construir cosas por ti mismo, sigue y/o modifica los scripts (/ home / pi / MVP / setup).
 
